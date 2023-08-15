@@ -1,7 +1,5 @@
 # Learning Jenkins
-This is the repository for the LinkedIn Learning course Learning Jenkins. The full course is available from [LinkedIn Learning][lil-course-url].
-
-![Learning Jenkins][lil-thumbnail-url] 
+This is the repository for the LinkedIn Learning course Learning Jenkins. The full course is available from [LinkedIn Learning]
 
 Do you need to automate tasks as part of your software development, system administration, or engineering work? This course introduces you to Jenkins, a highly configurable application used to automate software development and system administration tasks, and helps you build confidence in using it. Jenkins is a key DevOps tool, along with Docker and Git. Instructor Michael Jenkins covers how to set up a personal installation of Jenkins and familiarize yourself with the program’s interface. Next, Michael steps through how to configure your first job in Jenkins.  After you get some experience with jobs, he explains the Jenkins plugin environment and how plugins are used to extend the functionality that Jenkins offers.  Finally, Michael wraps up with detailed instructions on organizing jobs in folders and views, as well as a brief look into creating pipelines as code.
 
